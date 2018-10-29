@@ -1,0 +1,25 @@
+{
+  "name": "Salman Naseer",
+  "website": "https://github.com/salmannaseer5/salmannaseer5.github.io",
+  "linkedin": "https://www.linkedin.com/in/salman-naseer-b09a59170/",
+  "github": "salmannaseer5",
+  "email": "salmannaseer1686@gmail.com",
+  "resume": "https://salmannaseer5.github.io/img/resume-fustero.pdf",
+  "proficient-technologies": [
+    "html",
+    "css",
+    "javascript",
+    "react",
+    "angular",
+    "mern",
+    "mean",
+    "sql",
+    "node",
+    "mongodb",
+    "c",
+    "c++",
+    "Coral Draw",
+    "Photoshop"
+  ],
+  "other-skills": ["skiing", "Photography", "playing guitar"]
+}
